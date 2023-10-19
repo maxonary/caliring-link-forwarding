@@ -1,0 +1,26 @@
+{
+  "hosting": {
+    "public": "public",
+    
+    "redirects": [
+      {
+        "source": "/qr-code",
+        "destination": "https://caliring.shop/products/caliring-setworkoutring",
+        "type": 301
+      }
+    ],
+
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
