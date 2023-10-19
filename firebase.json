@@ -4,7 +4,7 @@
     
     "redirects": [
       {
-        "source": "/qr-code",
+        "source": "/",
         "destination": "https://caliring.shop/products/caliring-setworkoutring",
         "type": 301
       }
