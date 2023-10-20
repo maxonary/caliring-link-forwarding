@@ -64,3 +64,8 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
